@@ -17,10 +17,7 @@ body {
 }
 
 .container {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: flex-start;
+display: flex;
 }
 
 #box {
@@ -40,10 +37,8 @@ h3 {
 
 h1 {
     color: #333;
-    border-bottom: 2px solid #ccc;
-    padding-bottom: 5px;
     text-align: center;
-    width: 100%;
+    width: 1175px;
     height: 50px;
     padding: 11px;
     margin: 10px;
